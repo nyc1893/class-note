@@ -1,0 +1,9 @@
+
+ssh ubuntu.cse.unr.edu
+
+cd ..
+cd ..
+cd ..
+cd srv/submit/classes/cs135
+
+Will need to change the .json file and hooks/ folder files
