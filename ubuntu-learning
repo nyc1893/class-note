@@ -1,0 +1,25 @@
+shell 指令直接上代码
+
+新建文件:
+  touch XX
+  
+文件夹操作
+  mkdir folder            （新建一个文件夹）
+  rmdir folder/folder2    （删除一个空的文件夹）
+  rm -r folder3            (删除有文件的文件夹)
+  
+拷贝文件
+  cp f1 f2
+  cp -i f1 f2             (会问要不要覆盖了)
+  cp f1 folder1/          （拷贝进入文件夹）
+  cp -R folder1/ folder2/ (文件夹考进文件夹 批处理)
+  cp file* folder         (把所有前缀为file的文件全部拷贝)
+  cp f1 f2 folder1/       (拷贝了两个文件f1 f2进来)
+
+文件剪切
+  mv f1 folder/
+  mv --help(see other process)
+
+文件删除
+  rm -i f1 f2 f3      (每个都询问是否操作)
+  rm -I f1 f2 f3 f4   (只询问大于三个的文件是否操作)
