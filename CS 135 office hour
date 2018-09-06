@@ -7,3 +7,12 @@ cd ..
 cd srv/submit/classes/cs135
 
 Will need to change the .json file and hooks/ folder files
+change json file to see the due date (need to change the time into the England zone's time)
+and late for only 3 days 
+
+for json file:
+vim assignment.json
+then input "i" to change and "ESC" to finish change, and then "shift"+":" to get a command line: wq(write and quit)
+
+for hooks folder, for instance to check the source file:  
+source_files = ["XXX.c","XXX.c","XXX.c"]
