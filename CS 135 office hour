@@ -16,3 +16,11 @@ then input "i" to change and "ESC" to finish change, and then "shift"+":" to get
 
 for hooks folder, for instance to check the source file:  
 source_files = ["XXX.c","XXX.c","XXX.c"]
+
+
+
+If I want to use win 10 to do it 
+first install WinSCP and then putty, open Winscp input
+host name :  ubuntu.cse.unr.edu    
+then Ctrl + P to open a terminal 
+To change the front size press mouse right button and "Change Settings" -->"Front change"--> "Appeareance Change"
