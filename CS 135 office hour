@@ -24,3 +24,7 @@ first install WinSCP and then putty, open Winscp input
 host name :  ubuntu.cse.unr.edu    
 then Ctrl + P to open a terminal 
 To change the front size press mouse right button and "Change Settings" -->"Front change"--> "Appeareance Change"
+
+
+
+To see the student's homework go to srv/cs135
