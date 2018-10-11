@@ -32,3 +32,4 @@ To see the student's homework go to srv/cs135
 
 To copy student homework for grading :
 scp -r cs135 yunchuanl@134.197.20.43:~/Desktop
+The ip address will also change to find it use : ifconfig
