@@ -11,7 +11,7 @@ change json file to see the due date (need to change the time into the England z
 and late for only 3 days 
 
 for json file:
-vim assignment.json
+vim assignments.json
 then input "i" to change and "ESC" to finish change, and then "shift"+":" to get a command line: wq(write and quit)
 
 for hooks folder, for instance to check the source file:  
