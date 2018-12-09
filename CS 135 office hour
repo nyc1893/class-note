@@ -17,6 +17,15 @@ then input "i" to change and "ESC" to finish change, and then "shift"+":" to get
 for hooks folder, for instance to check the source file:  
 source_files = ["XXX.c","XXX.c","XXX.c"]
 
+For testing homework
+Open another window and enter:
+
+cd Desktop
+cd p2
+submit
+yunchuanl
+
+
 
 
 If I want to use win 10 to do it 
