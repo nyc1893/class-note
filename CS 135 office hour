@@ -20,8 +20,8 @@ source_files = ["XXX.c","XXX.c","XXX.c"]
 For testing homework
 Open another window and enter:
 
-cd Desktop
-cd p2
+cd Desktop/p2
+
 submit
 yunchuanl
 
